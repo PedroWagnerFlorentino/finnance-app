@@ -147,3 +147,17 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+
+# Claude mandou
+dist/
+coverage/
+
+# Maven
+target/
+
+idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
